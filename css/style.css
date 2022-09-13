@@ -1,0 +1,96 @@
+body{
+    font-family: Arial, Verdana;
+    background-color: #000000;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+h1{
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+    color: #C4C4C4
+}
+
+h2{ 
+    font-size: 30px;
+    color: #0D0D0D;
+    color: #C4C4C4
+    
+}
+
+p{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: #C4C4C4
+    color: #707070;
+    
+}
+
+img{
+   font-size: 250px; 
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   }
+
+div{
+    height >= 125px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border: solid 3px #FFFFFF;
+}
+
+.introduction{
+    border: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+
+.red{
+    background-color: #FF0000;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+
+.blue{
+    background-color: #0000FF;
+    text-align: left;
+    margin-right: 50px;
+    border-top: 2px;
+    border-right 5px;
+}
+
+.yellow{
+    background-color:yellow;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+
+.green{
+   background-color: #00EB00; 
+   text-align: left;
+   margin-right: 50px;
+   margin-top: 2px;
+}
+
+footer{
+    linear-gradient:(#000000, #0000ff 25%, #0066ff 70%, #000000);
+    border: solid 5px #FFFFFFF;
+    font-size: 20px;
+    text-align: right;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+
